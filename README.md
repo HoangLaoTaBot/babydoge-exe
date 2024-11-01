@@ -3,7 +3,7 @@
 |-----------|--------------|----------------------------------------------------------------------------|
 | AUTO_BUY_CARD | true / false | ( On / Off ) Tính năng tự động mua thẻ                                     |
 | AUTO_UPGRADE_CARD | true / false | ( On / Off ) Tính năng tự động nâng cấp thẻ                                |
-| COST_UPGRADE_CARD_MAX | 200000 | Số tiền tối đa dùng để nâng cấp thẻ                                        |
+| COST_UPGRADE_CARD_MAX | 200000       | Số tiền tối đa dùng để nâng cấp thẻ                                        |
 | AUTO_TASK | true / false | ( On / Off ) Tính năng tự động làm nhiệm vụ                                |
 | AUTO_GET_NEW_QUERY_ID | true / false | ( On / Off ) Tính năng tự động mở hidemium để lấy query_id mới khi hết hạn |
 | AUTO_WRITE_ERROR | true / false | ( On / Off ) Tính năng ghi log lỗi ra file error.txt                       |
@@ -15,4 +15,4 @@
 | IS_SLEEP | 27500        | Số thời gian đợi chạy vòng lặp mới ( giây )                                |
 | BOT_TOKEN |              | Token của bot telegram channel                                             |
 | BOT_CHANNEL_ID |              | ID của telegram channel                                                    |
-| BOT_NAME_GAME | Blum         | Tên game                                                                   |
+| BOT_NAME_GAME | Baby Doge    | Tên game                                                                   |
